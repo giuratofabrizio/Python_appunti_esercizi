@@ -1,2 +1,5 @@
 slicing : considerazione di una sola parte in una lista 
 list comprehention : meccanismo attraverso il quale costruiamo una lista scrivendo nelle parentesi quadre le istruzioni per generare i singoli elementi della lista
+function: costrutto sintattico nei linguaggi di programmazione che permette di raggruppare una serie di istruzioni, puó avere zero o piú valori in ingresso chiamati
+argomenti
+parametri:
