@@ -9,3 +9,6 @@ parametri:
 
 attuali, parametro finale della def
 formali, parametro iniziale della def
+
+
+map: funzione che applica ad ogni elemento di una lista una funzione
